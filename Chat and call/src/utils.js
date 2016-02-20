@@ -1,3 +1,0 @@
-/*!
-      File Description: Utility functions.
-*/

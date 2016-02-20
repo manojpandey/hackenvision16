@@ -1,5 +1,0 @@
-1
-  Every route object will have a path property
-  of format `${sdkName}/${function}`
-
-  Example 'fb/getPicture', 'google/getPicture'
