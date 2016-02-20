@@ -1,0 +1,3 @@
+[submodule "gistle"]
+	path = gistle
+	url = https://github.com/manojpandey/gistle.git
