@@ -1,0 +1,19 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.intro {
+	display: table;
+	height: 100%;
+	width: 100%;
+}
+
+.intro-body {
+	display: table-cell;
+	vertical-align: middle;
+	height: 80%;
+	width: 100%;
+	background-color: purple;
+}
